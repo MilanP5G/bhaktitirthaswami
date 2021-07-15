@@ -1,0 +1,10 @@
+.origin-box .origin-image img {
+  display: block;
+  position: fixed;
+  right: 0;
+  left: 0;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  width: 70%;
+}
